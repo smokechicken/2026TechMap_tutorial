@@ -1,0 +1,6 @@
+.DS_Store
+
+# Tutorial downloads — hosted as GitHub Release assets, not in the repo
+# (GitHub rejects files over 100 MB)
+visionOS_Unity_Tutorial.zip
+visionOS_Unity_Tutorial_Xcode.zip
