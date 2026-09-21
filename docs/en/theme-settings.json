@@ -1,0 +1,9 @@
+{
+  "theme": {
+    "color": {
+      "aside-tip": { "light": "#1a7f37", "dark": "#56d364" },
+      "aside-tip-background": { "light": "#eef8f1", "dark": "rgba(46, 160, 67, 0.16)" },
+      "aside-tip-border": { "light": "#2da44e", "dark": "#3fb950" }
+    }
+  }
+}
